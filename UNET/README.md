@@ -6,8 +6,8 @@ UNET is a convolutional neural network commonly used for segmentation related. H
 https://arxiv.org/pdf/1505.04597.pdf
 ```
 
-## Deoendencies
-Install the necessary depandencies by running
+## Dependencies
+Install the necessary dependencies by running
 ```
 pip3 install -r requirements.txt
 ```
